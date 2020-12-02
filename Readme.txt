@@ -1,4 +1,4 @@
-This webiste was made with <3 by Vusal and BootsrapMade.com
+This website was made with <3 by Vusal and BootsrapMade.com
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
